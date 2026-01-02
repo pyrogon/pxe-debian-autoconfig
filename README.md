@@ -29,6 +29,8 @@ Notes
 - The dashboard configuration is initialized from assets/config.yml.dist
 - Designed for unattended execution; no manual intervention is needed
 - After completion, the system is ready with the dashboard deployed
+- This script is intended to be run within a LAN
+- Script does not install or configure a firewall, do not deploy over WAN.
 
 Usage
 -----
